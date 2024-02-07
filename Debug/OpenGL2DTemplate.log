@@ -1,0 +1,4 @@
+﻿  OpenGL2DTemplate.cpp
+OpenGL2DTemplate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGL2DTemplate.vcxproj -> C:\Users\ayman\Downloads\OpenGL2DTemplate\Debug\OpenGL2DTemplate.exe
